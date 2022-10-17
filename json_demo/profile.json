@@ -1,0 +1,44 @@
+[
+  {
+    "profileId": 39926102003243275375,
+    "countryCode": "CA",
+    "currencyCode": "CAD",
+    "dailyBudget": 999999999.0,
+    "timezone": "America/Los_Angeles",
+    "accountInfo": {
+      "marketplaceStringId": "A2EUQ1WTGCTBG2",
+      "id": "A3Q9M3MA2343Z74I1",
+      "type": "seller",
+      "name": "BroadLink Online",
+      "validPaymentMethod": true
+    }
+  },
+  {
+    "profileId": 3805574234660326050,
+    "countryCode": "MX",
+    "currencyCode": "MXN",
+    "dailyBudget": 999999999.0,
+    "timezone": "America/Los_Angeles",
+    "accountInfo": {
+      "marketplaceStringId": "A1AM78C64UM0Y8",
+      "id": "A3Q9M3MA3234Z74I1",
+      "type": "seller",
+      "name": "BroadLink Online",
+      "validPaymentMethod": true
+    }
+  },
+  {
+    "profileId": 4178449023433562891,
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "dailyBudget": 999999999.0,
+    "timezone": "America/Los_Angeles",
+    "accountInfo": {
+      "marketplaceStringId": "ATVPDKIKX0DER",
+      "id": "A3Q9M3M23A233Z74I1",
+      "type": "seller",
+      "name": "BroadLink Online",
+      "validPaymentMethod": true
+    }
+  }
+]

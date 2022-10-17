@@ -1,0 +1,14 @@
+[
+    {
+
+        "name": "Hello World Campaign",
+        "state": "enabled",
+        "startDate": "20210731",
+        "campaignType": "sponsoredProducts",
+        "targetingType": "manual",
+        "dailyBudget": 1.00
+    }
+]
+
+//create campaign
+//curl -X POST -H "Content-Type:application/json" -H "Authorization: Bearer Atza|IwEBIBkj5Tl6Ye19zkNCZbAVae7YUIFTv4fQxw6fCExmk6Ll9ByK1-UpPmp4ulx6QyaHpgv5t7OyJFlM9O86rQBaxi79OYur-sntFhxsOMLdIYpiEEVb876b1XkaHC-Lr9hvhqIw7NC_16x_T5kV8Yr7yXjbqKVm5PEnaD0U4PCXwcsq24YaOImPxMWWaxw2EhTUHez-LL3Zl5HGMC4TWoTubERcfF7cxuTkRhrkwbkE7XYsyOJph0UMf87mwv3bTvp2uZr9T077-hqDQqojp1hJiCB3i0ZPjLiYaxw_xX5yXIqN2awjyLih0PwVdjBz1XWIBzhac7Wd53MsCFXdCZ-P-W784F3H3f5cyOGAtJJ_lbuPFAOW7VUqqpYRGhvuLCOm9mVXsYtd1aKfZWLWWRxhIIGu" -H "Amazon-Advertising-API-Scope: 3435667906748336" -H "Amazon-Advertising-API-ClientId: amzn1.application-oa2-client.d51a145cd6964fab975d08df3873e89f" --data @testCampaign.json https://advertising-api-test.amazon.com/v2/sp/campaigns

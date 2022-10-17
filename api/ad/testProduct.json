@@ -1,0 +1,9 @@
+[
+  {
+    "campaignId": 0,
+    "adGroupId": 0,
+    "sku": "string",
+    "asin": "string",
+    "state": "enabled"
+  }
+]

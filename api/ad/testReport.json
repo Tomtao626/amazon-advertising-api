@@ -1,0 +1,7 @@
+{
+  "stateFilter": "enabled",
+  "campaignType": "sponsoredProducts",
+  "segment": "query",
+  "reportDate": "string",
+  "metrics": "string"
+}

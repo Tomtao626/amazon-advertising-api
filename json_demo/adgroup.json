@@ -1,0 +1,16 @@
+[
+  {
+    "adGroupId": 722753614334054438,
+    "name": "Ad group 1",
+    "campaignId": 1039492344393979435,
+    "defaultBid": 0.75,
+    "state": "enabled"
+  },
+  {
+    "adGroupId": "12005909584634434",
+    "name": "Ad group 1",
+    "campaignId": 2784291452134432085,
+    "defaultBid": 0.75,
+    "state": "enabled"
+  }
+]

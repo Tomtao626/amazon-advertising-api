@@ -1,0 +1,1170 @@
+[
+    {
+        "campaignId":103949293979435,
+        "name":"Campaign - 6/11/2020 15:23:56",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20200611",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        }
+    },
+    {
+        "campaignId":278429145212085,
+        "name":"Campaign - 6/16/2020 09:56:55",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20200615",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        }
+    },
+    {
+        "campaignId":66163521433105,
+        "name":"Campaign-RM4mini - 6/18/2020 09:20:30",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"auto",
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20200617",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        }
+    },
+    {
+        "campaignId":113128680735938,
+        "name":"Campaign -RM4 mini Manual 6/24/2020 15:44:45",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":40,
+        "startDate":"20200624",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":252594361845807
+    },
+    {
+        "campaignId":110175837869024,
+        "name":"Campaign - 6/24/2020 17:57:44",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"auto",
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20200624",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        }
+    },
+    {
+        "campaignId":193804161100462,
+        "name":"Campaign -RM4miniS-ASIN 6/29/2020 11:31:49",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":95,
+        "startDate":"20200629",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":252594361845807
+    },
+    {
+        "campaignId":44086495507122,
+        "name":"Campaign - SP4M-5P-6/30/2020 09:41:53",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20200629",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        }
+    },
+    {
+        "campaignId":156842870592496,
+        "name":"Campaign - RM4pro Auto 7/1/2020 19:14:16",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"auto",
+        "premiumBidAdjustment":true,
+        "dailyBudget":30,
+        "startDate":"20200701",
+        "state":"paused",
+        "bidding":{
+            "strategy":"autoForSales",
+            "adjustments":[
+                {
+                    "predicate":"placementTop",
+                    "percentage":25
+                }
+            ]
+        },
+        "portfolioId":166532102979261
+    },
+    {
+        "campaignId":247870453611486,
+        "name":"\u5e7f\u544a\u6d3b\u52a8SP4M-Auto - 7/17/2020 18:53:04",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"auto",
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20200717",
+        "state":"archived",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        }
+    },
+    {
+        "campaignId":31449155458386,
+        "name":"Campaign RM4mini-Auto- 7/20/2020 11:14:24",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"auto",
+        "premiumBidAdjustment":false,
+        "dailyBudget":30,
+        "startDate":"20200719",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":252594361845807
+    },
+    {
+        "campaignId":136881513746378,
+        "name":"\u5e7f\u544a\u6d3b\u52a8 -TV Related ASIN-7/22/2020 20:26:35",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":true,
+        "dailyBudget":15,
+        "startDate":"20200722",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+                {
+                    "predicate":"placementProductPage",
+                    "percentage":10
+                },
+                {
+                    "predicate":"placementTop",
+                    "percentage":10
+                }
+            ]
+        },
+        "portfolioId":252594361845807
+    },
+    {
+        "campaignId":225424246512151,
+        "name":"Campaign - SP4M-US- Auto7/24/2020 14:34:38",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"auto",
+        "premiumBidAdjustment":false,
+        "dailyBudget":50,
+        "startDate":"20200723",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":179286237238680
+    },
+    {
+        "campaignId":217775771982065,
+        "name":"\u5e7f\u544a\u6d3b\u52a8 - SP4M-ASIN-7/28/2020 17:26:28",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":30,
+        "startDate":"20200728",
+        "state":"paused",
+        "bidding":{
+            "strategy":"autoForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":179286237238680
+    },
+    {
+        "campaignId":15831600251145,
+        "name":"Campaign - RM4mini Manual 7/29/2020 19:03:10",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":45,
+        "startDate":"20200729",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":252594361845807
+    },
+    {
+        "campaignId":204805716498066,
+        "name":"Campaign - RM4pro-Manual-7/30/2020 09:16:17",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":true,
+        "dailyBudget":100,
+        "startDate":"20200729",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+                {
+                    "predicate":"placementProductPage",
+                    "percentage":20
+                },
+                {
+                    "predicate":"placementTop",
+                    "percentage":50
+                }
+            ]
+        },
+        "portfolioId":166532102979261
+    },
+    {
+        "campaignId":238846101916312,
+        "name":"\u5e7f\u544a\u6d3b\u52a8 - SP4M-US-Manual-8/5/2020 20:16:59",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20200805",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":179286237238680
+    },
+    {
+        "campaignId":69343336863031,
+        "name":"\u5e7f\u544a\u6d3b\u52a8 -SP4M-US\u5c55\u793a\u5e7f\u544a 8/17/2020 19:15:12",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"auto",
+        "networks":[
+            "offAmazon"
+        ],
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20200817",
+        "state":"archived",
+        "bidding":{
+            "strategy":"autoForSales",
+            "adjustments":[
+
+            ]
+        }
+    },
+    {
+        "campaignId":253655608606226,
+        "name":"\u5e7f\u544a\u6d3b\u52a8 -SCB21- 8/17/2020 18:03:20",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"auto",
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20200817",
+        "state":"archived",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":95223327751952
+    },
+    {
+        "campaignId":116917322358730,
+        "name":"\u5e7f\u544a\u6d3b\u52a8 - RM4mini\u5c55\u793a-8/28/2020 17:53:09",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"auto",
+        "networks":[
+            "offAmazon"
+        ],
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20200828",
+        "state":"archived",
+        "bidding":{
+            "strategy":"autoForSales",
+            "adjustments":[
+
+            ]
+        }
+    },
+    {
+        "campaignId":23774654767219,
+        "name":"Campaign - Smart Bulb-9/21/2020 10:24:54",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"auto",
+        "premiumBidAdjustment":false,
+        "dailyBudget":35,
+        "startDate":"20200920",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":191556758027861
+    },
+    {
+        "campaignId":148072647856513,
+        "name":"Campaign - RMpro 9/21/2020 16:39:45",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"auto",
+        "premiumBidAdjustment":true,
+        "dailyBudget":55,
+        "startDate":"20200921",
+        "state":"paused",
+        "bidding":{
+            "strategy":"autoForSales",
+            "adjustments":[
+                {
+                    "predicate":"placementProductPage",
+                    "percentage":25
+                },
+                {
+                    "predicate":"placementTop",
+                    "percentage":50
+                }
+            ]
+        },
+        "portfolioId":7777442988915
+    },
+    {
+        "campaignId":24654185126795,
+        "name":"\u5e7f\u544a\u6d3b\u52a8 - LB27R1-Manual-9/23/2020 19:55:42",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20200923",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":191556758027861
+    },
+    {
+        "campaignId":119424927290603,
+        "name":"Campaign - RM4 pro-ASIN (ordered)-9/30/2020 11:24:36",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":50,
+        "startDate":"20200930",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":166532102979261
+    },
+    {
+        "campaignId":198305987370766,
+        "name":"Campaign - RM4mini-Manual Ordered-9/29/2020 20:19:48",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":40,
+        "startDate":"20200929",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":252594361845807
+    },
+    {
+        "campaignId":237843101200954,
+        "name":"Campaign - Smart Bulb-Manual 10/12/2020 13:40:16",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":25,
+        "startDate":"20201011",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":191556758027861
+    },
+    {
+        "campaignId":110069453499783,
+        "name":"Campaign - RM4mini-ASIN(Ordered)-10/23/2020 17:54:04",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20201023",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":252594361845807
+    },
+    {
+        "campaignId":175509430483116,
+        "name":"Campaign - SP4M-Manual-10/29/2020 19:29:13",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":35,
+        "startDate":"20201029",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":179286237238680
+    },
+    {
+        "campaignId":257928083458796,
+        "name":"Campaign -RM4miniS Manual-Reco-10/29/2020 19:44:32",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":30,
+        "startDate":"20201029",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":252594361845807
+    },
+    {
+        "campaignId":116579501446599,
+        "name":"Campaign -RM4proS-2-Auto 11/5/2020 10:06:59",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"auto",
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20201104",
+        "state":"paused",
+        "bidding":{
+            "strategy":"autoForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":166532102979261
+    },
+    {
+        "campaignId":165284113191674,
+        "name":"\u5e7f\u544a\u6d3b\u52a8 -RM4proS\u5c55\u793a 11/11/2020 09:21:09",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"auto",
+        "networks":[
+            "offAmazon"
+        ],
+        "premiumBidAdjustment":false,
+        "dailyBudget":32,
+        "startDate":"20201110",
+        "state":"archived",
+        "bidding":{
+            "strategy":"autoForSales",
+            "adjustments":[
+
+            ]
+        }
+    },
+    {
+        "campaignId":72248282827459,
+        "name":"Campaign - LBTV-Auto-11/24/2020 17:22:44",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"auto",
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20201124",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":42725714249867
+    },
+    {
+        "campaignId":76864278370579,
+        "name":"Campaign - RM4pro-New ASIN-Auto 11/25/2020 14:03:38",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"auto",
+        "premiumBidAdjustment":true,
+        "dailyBudget":30,
+        "startDate":"20201124",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+                {
+                    "predicate":"placementTop",
+                    "percentage":25
+                }
+            ]
+        },
+        "portfolioId":109917860892478
+    },
+    {
+        "campaignId":108339419772511,
+        "name":"Campaign -LBTV-Manual 12/29/2020 17:44:42",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20201229",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":42725714249867
+    },
+    {
+        "campaignId":46150211452981,
+        "name":"Campaign - bulb-ASIN 2/2/2021 15:10:41",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20210201",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":191556758027861
+    },
+    {
+        "campaignId":154430500513227,
+        "name":"Campaign -Motion Sensor-Auto 2/24/2021 13:33:52",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"auto",
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20210223",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":164398906925217
+    },
+    {
+        "campaignId":83525479371212,
+        "name":"Campaign - Switch-Auto-2/24/2021 14:14:28",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"auto",
+        "premiumBidAdjustment":false,
+        "dailyBudget":30,
+        "startDate":"20210223",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":160279105276866
+    },
+    {
+        "campaignId":256421995476147,
+        "name":"Campaign - Motion Sensor-Manual-2/24/2021 16:10:11",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":45,
+        "startDate":"20210224",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":164398906925217
+    },
+    {
+        "campaignId":53542958381943,
+        "name":"\u573a\u666f\u5e7f\u544a -TC3- 5/23/2021",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":50,
+        "startDate":"20210318",
+        "state":"enabled",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":160279105276866
+    },
+    {
+        "campaignId":214909404052771,
+        "name":"Campaign -SR3-Auto 4/7/2021 09:25:52",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"auto",
+        "premiumBidAdjustment":false,
+        "dailyBudget":35,
+        "startDate":"20210406",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":246627665460329
+    },
+    {
+        "campaignId":162205252135973,
+        "name":"Campaign - RM4pro-2-Manual-4/23/2021 10:50:09",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20210422",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":109917860892478
+    },
+    {
+        "campaignId":170103682965010,
+        "name":"Campaign -Sensor Promotion 4/28/2021 15:35:47",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20210428",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":125239096539070
+    },
+    {
+        "campaignId":53623965279221,
+        "name":"Campaign - SR3 Manual-4/29/2021 14:50:14",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":35,
+        "startDate":"20210428",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":246627665460329
+    },
+    {
+        "campaignId":224815044715177,
+        "name":"Campaign - SP4D-Manual-5/18/2021 10:35:00",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":30,
+        "startDate":"20210526",
+        "state":"paused",
+        "bidding":{
+            "strategy":"autoForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":86691392646449
+    },
+    {
+        "campaignId":212585504842203,
+        "name":"Campaign -SP4D-ASIN 5/18/2021 15:36:51",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20210526",
+        "state":"paused",
+        "bidding":{
+            "strategy":"autoForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":86691392646449
+    },
+    {
+        "campaignId":18328682680050,
+        "name":"Campaign - NFC tag 5/20/2021 18:14:02",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"auto",
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20210520",
+        "state":"paused",
+        "bidding":{
+            "strategy":"autoForSales",
+            "adjustments":[
+
+            ]
+        }
+    },
+    {
+        "campaignId":2788971538767,
+        "name":"\u573a\u666f\u5e7f\u544a-RM4mini -5/24/2021",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":30,
+        "startDate":"20210524",
+        "state":"enabled",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":160279105276866
+    },
+    {
+        "campaignId":95823573684807,
+        "name":"\u573a\u666f\u5e7f\u544a-RM4miniS - 5/24/2021",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":50,
+        "startDate":"20210524",
+        "state":"enabled",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":160279105276866
+    },
+    {
+        "campaignId":376864550351,
+        "name":"\u81ea\u6709\u54c1\u724c\u8bcd\u5e7f\u544a-5/26/2021",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":25,
+        "startDate":"20210526",
+        "state":"enabled",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":118744521629648
+    },
+    {
+        "campaignId":83915109783424,
+        "name":"\u884c\u4e1a\u5e7f\u544a- 5/26/2021",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20210526",
+        "state":"enabled",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":89925469327220
+    },
+    {
+        "campaignId":223150975658984,
+        "name":"\u573a\u666f\u5e7f\u544a -RM4pro- 5/26/2021",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":80,
+        "startDate":"20210526",
+        "state":"enabled",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":160279105276866
+    },
+    {
+        "campaignId":133769429788696,
+        "name":"\u7adf\u8054\u5e7f\u544a -TC3- 5/28/2021",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20210528",
+        "state":"enabled",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":246438247643727
+    },
+    {
+        "campaignId":67548049198013,
+        "name":"\u7ade\u8054\u5e7f\u544a -RM4mini- 5/31/2021",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20210530",
+        "state":"enabled",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":246438247643727
+    },
+    {
+        "campaignId":118290913307399,
+        "name":"\u573a\u666f\u5e7f\u544a -SP4M-6/1/2021",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20210531",
+        "state":"enabled",
+        "bidding":{
+            "strategy":"autoForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":160279105276866
+    },
+    {
+        "campaignId":28184053267161,
+        "name":"\u573a\u666f\u5e7f\u544a -LB26 R1 6/1/2021",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":30,
+        "startDate":"20210531",
+        "state":"enabled",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":160279105276866
+    },
+    {
+        "campaignId":107789352213842,
+        "name":"\u7ade\u8054\u5e7f\u544a-SP4M-6/1/2021",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":30,
+        "startDate":"20210601",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":246438247643727
+    },
+    {
+        "campaignId":7948090836294,
+        "name":"\u7ade\u8054\u5e7f\u544a-LB26 R1 - 6/1/2021",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":30,
+        "startDate":"20210601",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":246438247643727
+    },
+    {
+        "campaignId":164258525789722,
+        "name":"\u573a\u666f\u5e7f\u544a -LBTV- 6/5/2021",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":90,
+        "startDate":"20210602",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":160279105276866
+    },
+    {
+        "campaignId":42948908221038,
+        "name":"\u573a\u666f\u5e7f\u544a -SP4D-US- 6/7/2021",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":40,
+        "startDate":"20210607",
+        "state":"enabled",
+        "bidding":{
+            "strategy":"autoForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":160279105276866
+    },
+    {
+        "campaignId":197184741647561,
+        "name":"\u7ade\u8054\u5e7f\u544a-SP4D-US - 6/7/2021",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":80,
+        "startDate":"20210607",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":246438247643727
+    },
+    {
+        "campaignId":35232038378298,
+        "name":"\u81ea\u6709\u54c1\u724c\u8bcd\u5e7f\u544a-RM- 6/7/2021",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":true,
+        "dailyBudget":50,
+        "startDate":"20210607",
+        "state":"enabled",
+        "bidding":{
+            "strategy":"autoForSales",
+            "adjustments":[
+                {
+                    "predicate":"placementTop",
+                    "percentage":25
+                }
+            ]
+        },
+        "portfolioId":118744521629648
+    },
+    {
+        "campaignId":52067297749257,
+        "name":"\u7ade\u8054\u5e7f\u544a-SCB2 - 6/23/2021",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20210623",
+        "state":"enabled",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":246438247643727
+    },
+    {
+        "campaignId":253112297517779,
+        "name":"\u573a\u666f\u5e7f\u544a-SCB2 - 6/23/2021",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20210623",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":160279105276866
+    },
+    {
+        "campaignId":43140741304434,
+        "name":"\u573a\u666f\u5e7f\u544a-RM4 TV mate - 7/21/2021",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":70,
+        "startDate":"20210721",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":160279105276866
+    },
+    {
+        "campaignId":229747775159336,
+        "name":"\u7ade\u8054\u5e7f\u544a - RM4 TV Mate -7/22/2021",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":30,
+        "startDate":"20210722",
+        "state":"paused",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":246438247643727
+    },
+    {
+        "campaignId":176930767187231,
+        "name":"\u81ea\u52a8\u5e7f\u544a RM4 TV Mate - 7/23/2021",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"auto",
+        "premiumBidAdjustment":false,
+        "dailyBudget":30,
+        "startDate":"20210723",
+        "state":"enabled",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":178939729162698
+    },
+    {
+        "campaignId":166571480954695,
+        "name":"\u7ade\u8054\u5e7f\u544a- RM4 TV Mate-7/26/2021",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"manual",
+        "premiumBidAdjustment":false,
+        "dailyBudget":30,
+        "startDate":"20210725",
+        "state":"enabled",
+        "bidding":{
+            "strategy":"autoForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":246438247643727
+    },
+    {
+        "campaignId":86811539780638,
+        "name":"\u81ea\u52a8\u5e7f\u544a - RM4miniS-7/28/2021",
+        "campaignType":"sponsoredProducts",
+        "targetingType":"auto",
+        "premiumBidAdjustment":false,
+        "dailyBudget":20,
+        "startDate":"20210727",
+        "state":"enabled",
+        "bidding":{
+            "strategy":"legacyForSales",
+            "adjustments":[
+
+            ]
+        },
+        "portfolioId":178939729162698
+    }
+]
