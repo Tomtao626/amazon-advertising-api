@@ -1,2 +1,2 @@
 # amazon-advertising-api
-amazon-advertising-api
+amazon advertising api
